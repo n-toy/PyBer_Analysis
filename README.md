@@ -4,6 +4,7 @@
 
   The purpose of this analysis is to visualize PyBer performance between three city types--Rural, Suburban, and Urban. The data was analyzed using Pandas, and Matplotlib in Python. 
 ![PyBer High Level Summary](https://github.com/n-toy/PyBer_Analysis/blob/master/Analysis/Challenge%20Summary.PNG)
+  
   A high level summary of the PyBer rider data shows that use of PyBer is higher in Urban areas, but with the lowest average fare for ride and driver performance. Rural and Suburban cities show a disproportionate view of PyBer effectiveness with lower number of rides, and higher costs.
 ![PyBer 2019 Q1 Fares](https://github.com/n-toy/PyBer_Analysis/blob/master/Analysis/Challenge.png)
   Looking at 2019 Q1 performance between the three city types Urban and Suburban cities fares ($USD) are rising, while Rural seems to be stagnant. 
